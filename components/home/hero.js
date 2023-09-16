@@ -21,7 +21,7 @@ export default function Hero() {
               주니어 프론트엔드 개발자, 신정엽입니다.
             </h1>
             <p className="mb-8 leading-loose">
-              Copper mug try-hard pitchfork pour-over freegan heirloom neutra air plant cold-pressed tacos poke beard tote bag. Heirloom echo park mlkshk tote bag selvage hot chicken authentic tumeric truffaut hexagon try-hard chambray.
+              계명대학교 게임소프트웨어공학과에 재학중이며 프론트엔드 개발자를 꿈꾸고 있습니다. <br />
             </p>
             <div className="flex justify-center">
               <Link href="/projects" legacyBehavior>
