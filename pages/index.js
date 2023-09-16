@@ -7,8 +7,8 @@ export default function Home() {
   return (
     <Layout>
       <Head>
-        <title>JeongYeob's Portfolio</title>
-        <meta name="description" content="ShinJeongYeob's Portfolio" />
+        <title>JeongYeob&apos;s Portfolio</title>
+        <meta name="description" content="ShinJeongYeob&apos;s Portfolio" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <Hero />

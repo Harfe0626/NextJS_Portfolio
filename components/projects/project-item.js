@@ -14,7 +14,7 @@ export default function ProjectItem({data}){
 
             <Image className="rounded-t-xl"
                 src={imgSrc}
-                alt="cover image"
+                alt="coverImage"
                 width="100%"
                 height="100%"
                 layout="responsive"
